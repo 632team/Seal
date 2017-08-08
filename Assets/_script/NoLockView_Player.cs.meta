@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85c5c4dcd475f904ba525cf740f1c286
+timeCreated: 1495888210
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_JumpSound: {fileID: 8300000, guid: d75eea22530c94a4999de01bffe42a3d, type: 3}
+  - m_LandSound: {fileID: 8300000, guid: 043a8ed25b7603a40a44775c91504b38, type: 3}
+  - talkFlowchart: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

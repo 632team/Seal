@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f3be6197e56a23b40a90baf2a24d646a
+labels:
+- float
+- rotate
+- bob
+- powerup
+- colectable
+- floatate
+- perflexive
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
