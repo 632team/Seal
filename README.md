@@ -29,4 +29,4 @@
 
 都是我瞎掰的:)
 
-游戏分辨率比这个压缩视频截图高一大截= =，属于三人合作作品。@MrSiz & @GooZy & @还没拥抱git的邓经理
+游戏分辨率比这个压缩视频截图高一大截= =，属于三人合作作品。[@MrSiz](https://github.com/MrSiz) & [@GooZy](https://github.com/GooZy) & [@Dengsir666](https://github.com/Dengsir666)
