@@ -19,11 +19,12 @@
 
 ### 精美的特效
 
-![特效](https://github.com/632team/Seal/blob/master/picture/5.png?raw=true)
+![特效1](https://github.com/632team/Seal/blob/master/picture/5.png?raw=true)
+![特效2](https://github.com/632team/Seal/blob/master/picture/6.png?raw=true)
 
 ### 强力的BOSS
 
-![Boss](https://github.com/632team/Seal/blob/master/picture/6.png?raw=true)
+![Boss](https://github.com/632team/Seal/blob/master/picture/7.png?raw=true)
 
 ## 以上
 
